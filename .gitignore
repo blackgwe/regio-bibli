@@ -1,0 +1,26 @@
+# build artifacts
+dist/
+.output/
+
+# deps
+node_modules/*
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+
+# env
+.env
+.env.production
+
+# macOS-specific files
+.DS_Store
+
+package-lock.json
+pnpm-lock.yaml
+
+src/content/types.generated.d.ts
+/node_modules/

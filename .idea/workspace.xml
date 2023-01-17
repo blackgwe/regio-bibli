@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e361369-aa85-46e4-b40c-4fc39f4ed566" name="Changes" comment="initial checkin">
+      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/regio-bibli.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.npmrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/astro.config.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/caos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/colors.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/creativity.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/do-more.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/stickers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/tools.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/vintage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/styles/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/blog/Grid.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/blog/GridItem.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/blog/Headline.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/blog/HighlightedPosts.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/blog/LatestPosts.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/blog/List.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/blog/ListItem.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/blog/SinglePost.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/blog/ToBlogLink.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/BasicScripts.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/Fonts.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/Logo.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/MetaTags.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/Pagination.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/SocialShare.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/SplitbeeAnalytics.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/Tags.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/ToggleMenu.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/ToggleTheme.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/widgets/Announcement.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/widgets/CallToAction.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/widgets/Content.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/widgets/FAQs.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/widgets/Features.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/widgets/Features2.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/widgets/Footer.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/widgets/Header.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/widgets/Hero.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/widgets/Note.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/widgets/Pricing.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/widgets/Stats.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/widgets/Steps.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/widgets/Steps2.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/blog/astrowind-template-in-depth.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/blog/get-started-website-with-astro-tailwind-css.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/blog/help-wanted.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/blog/how-to-customize-astrowind-to-your-brand.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/blog/markdown-elements-demo-post.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/blog/useful-resources-to-create-websites.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/content/types.generated.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/BaseLayout.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/MarkdownLayout.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/PageLayout.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/404.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/[...blog]/[...page].astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/[...blog]/[category]/[...page].astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/[...blog]/[slug].astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/[...blog]/[tag]/[...page].astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/index.astro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/privacy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/rss.xml.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/terms.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/blog.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/directories.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/frontmatter.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/images.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/permalinks.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.config.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="xx" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KSLJjnrFyMFSbMzFfbVnCESsnj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/gwe/priv/regio-bibli/src/content/blog",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/gwe/priv/regio-bibli/node_modules/prettier",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/Users/gwe/priv/regio-bibli/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/content/blog" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e361369-aa85-46e4-b40c-4fc39f4ed566" name="Changes" comment="" />
+      <created>1673962968495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673962968495</updated>
+      <workItem from="1673962969755" duration="2648000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial checkin">
+      <created>1673965504900</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673965504900</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial checkin" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial checkin" />
+  </component>
+</project>
